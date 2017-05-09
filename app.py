@@ -10,4 +10,4 @@ def home():
 
 @app.route('/python')
 def python():
-    return '''<html><h1>Python Programming Language</html></h1>'''
+    return '''<h1>Python Programming Language</h1>'''
