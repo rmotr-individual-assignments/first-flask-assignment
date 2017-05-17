@@ -22,3 +22,6 @@ class RequestsTestCase(unittest.TestCase):
         self.assertTrue(
             '<h1>Python Programming Language</h1>' in data,
             "/python should return 'Python Programming Language as a title'")
+
+if __name__ == "__main__":
+    unittest.main()
