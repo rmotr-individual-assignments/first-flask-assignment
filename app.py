@@ -7,6 +7,6 @@ app = Flask(__name__)
 def home():
     return "Hello World"
 
-@app.route('/')
+@app.route('/python')
 def python():
 	return "<html><h1>Python Programming Language</h1></html>"
