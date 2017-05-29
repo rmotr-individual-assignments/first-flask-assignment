@@ -3,6 +3,6 @@ from flask import Flask
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/python')
 def home():
-    pass
+    return <hl>'Python Programming Language'<\hl>
