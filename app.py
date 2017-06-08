@@ -9,5 +9,5 @@ def home():
 
 @app.route('/python')
 def py_route():
-    html = "<html><hl>Python Programming Language</hl></html>"
+    html = "<html><h1>Python Programming Language</h1></html>"
     return html
