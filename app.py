@@ -15,4 +15,3 @@ def second():
         </html>
     """
     return html
-
