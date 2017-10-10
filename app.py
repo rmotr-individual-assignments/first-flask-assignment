@@ -11,7 +11,7 @@ def home():
 def hello_world():
     html = """
         <html>
-        <h1>Python Programming Language<h1/>
-        <html/>
+        <h1>Python Programming Language</h1>
+        </html>
         """
     return html
