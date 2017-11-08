@@ -11,6 +11,6 @@ def home():
 def python():
     return '''
     <html>
-        <h1>Pythosdn Programming Language</h1>
+        <h1>Python Programming Language</h1>
     </html>
     '''
